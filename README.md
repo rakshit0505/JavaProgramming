@@ -25,29 +25,14 @@ This journey follows a **structured, syllabus-like approach**:
 
 ## 🧱 Learning Roadmap
 
-### 🔰 LEVEL 0 — Absolute Beginner (Ground Level)
-
 This is where everything starts.
 
-**What this level focuses on:**
-- Understanding how Java programs run
-- Writing simple programs
+**What these levels focuses on:**
+- Understanding how Java programs work
+- Writing simple programs and levelling up gradually
 - Developing logical thinking
 
-**Strict Rules at this level:**
-- ❌ No OOPS  
-- ❌ No Collections  
-- ❌ No advanced syntax  
-- ✅ Only basics + logic  
-
-> 📌 This level builds the **foundation** for everything ahead.
-
----
-
-## 🔮 Next Levels (Preview Only — Don’t Start Yet)
-
-> These levels will be unlocked **one by one**, only after full comfort with the previous level.
-
+- **LEVEL 0** → Absolute Beginner (Ground Level)
 - **LEVEL 1** → Numbers (advanced logic)
 - **LEVEL 2** → Strings
 - **LEVEL 3** → Arrays
@@ -56,6 +41,8 @@ This is where everything starts.
 - **LEVEL 6** → Collections Framework
 - **LEVEL 7** → Java 8 Features
 - **LEVEL 8** → Core Java Internals + Interview Questions
+
+---
 
 This repository is not about speed —  
 it’s about **clarity, consistency, and confidence**.
