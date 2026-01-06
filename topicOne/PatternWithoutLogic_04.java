@@ -1,3 +1,5 @@
+package topicOne;
+
 public class PatternWithoutLogic_04 {
 
     public static void main(String[] args) {
